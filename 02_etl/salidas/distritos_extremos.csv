@@ -1,0 +1,11 @@
+boro_cd,BOROUGH,nombre_distrito,tasa_desvio,kg_hab_dia,t_total,grupo
+202,Bronx,"Hunts Point, Longwood",0.05665121007186398,4.717195117985043,99159.4,menor desvío
+110,Manhattan,Central Harlem,0.08824687964897564,1.6847944334126161,78444.7,menor desvío
+316,Brooklyn,"Brownsville, Ocean Hill",0.10206454322429308,1.12244842855794,39049.8,menor desvío
+201,Bronx,"Melrose, Mott Haven, Port Morris",0.10596424792560008,1.2194666645257177,44892.5,menor desvío
+206,Bronx,"East Tremont, Belmont",0.10625973048664267,1.3247940429515919,44383.700000000004,menor desvío
+411,Queens,"Bayside, Douglaston, Little Neck",0.3171220725087882,0.9710033063618254,45486.9,mayor desvío
+306,Brooklyn,"Park Slope, Carroll Gardens",0.307929275998334,0.9346438848330735,39375.6,mayor desvío
+107,Manhattan,"West Side, Upper West Side",0.29224294084891883,0.8944732269300953,75246.3,mayor desvío
+302,Brooklyn,"Brooklyn Heights, Fort Greene",0.2773331695482603,1.2186674341495047,48844.5,mayor desvío
+401,Queens,"Astoria, Long Island City",0.27298978974597465,0.855725351744881,65796.6,mayor desvío

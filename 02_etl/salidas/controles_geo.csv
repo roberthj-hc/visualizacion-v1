@@ -1,0 +1,6 @@
+,valor
+crs,EPSG:4326
+poligonos,71
+geometrias_invalidas,0
+distritos_tabulares_sin_poligono,[]
+poligonos_sin_dato_tabular,"[164, 226, 227, 228, 355, 356, 480, 481, 482, 483, 484, 595]"

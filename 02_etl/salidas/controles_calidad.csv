@@ -1,0 +1,15 @@
+,valor
+filas,25296
+filas_duplicadas_exactas,0
+"claves_duplicadas_(mes,distrito)",0
+primer_mes,1990-01
+ultimo_mes,2026-09
+meses_esperados,441
+meses_presentes,437
+meses_ausentes,"1990-02, 1990-03, 1990-04, 1990-05"
+distritos_unicos,59
+meses_con_59_distritos,423
+meses_con_menos_de_59,14
+valores_negativos,0
+rechazo_igual_a_cero,0
+borough_vs_id_inconsistentes,0
